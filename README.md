@@ -12,8 +12,9 @@ Proyek ini merupakan tugas akhir dari mata kuliah Robotika.
 - Albi Akhsanul Hakim – 22081010194
 - Kalfin Syah Kilau Mayya = 22081010251
 
-## 🖼️ Link Presentasi
-[🔗 Klik untuk membuka PPT Canva](https://www.canva.com/design/DAGkkZwgmI4/Cje6lQ5fYT0xZPpzXcpszw/edit?utm_content=DAGkkZwgmI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## 🔗 Resource Links
+- 🖼️ [Presentasi (Canva)](https://www.canva.com/design/DAGkkZwgmI4/Cje6lQ5fYT0xZPpzXcpszw/edit)
+- 📄 [Laporan Proposal PKM](https://docs.google.com/document/d/1Ml12mQGpgpabGes6zVxA445Trgf5_j28/edit)
 
 ## 🛠️ Teknologi dan Tools
 - Arduino IDE
