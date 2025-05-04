@@ -14,7 +14,7 @@ Proyek ini merupakan tugas akhir dari mata kuliah Robotika.
 
 ## 🔗 Resource Links
 - 🖼️ [Presentasi (Canva)](https://www.canva.com/design/DAGkkZwgmI4/Cje6lQ5fYT0xZPpzXcpszw/edit)
-- 📄 [Laporan Proposal PKM](https://docs.google.com/document/d/1Ml12mQGpgpabGes6zVxA445Trgf5_j28/edit)
+- 📄 [Laporan Proposal PKM](https://docs.google.com/document/d/1NfRLHjbExJ-4xh1laVjy2WrXjPRAXyWu1dWlI1mbuis/edit?pli=1&tab=t.0)
 
 ## 🛠️ Teknologi dan Tools
 - Arduino IDE
